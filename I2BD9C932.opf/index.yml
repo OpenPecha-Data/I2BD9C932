@@ -1,0 +1,114 @@
+id: e500caebe71c4c10be601f8acee09511
+annotation_type: index
+revision: '00001'
+annotations:
+  92fc0a33389f4dec970693b581ec2cee:
+    base: f00DC.txt
+    span:
+      start: 0
+      end: 9811
+  970c68abd95c46cfa6e90a9209b68c59:
+    base: f02AF.txt
+    span:
+      start: 0
+      end: 1341
+  cbd2b4a8525641b7be59d2a87f966c1e:
+    base: f08BB.txt
+    span:
+      start: 0
+      end: 77
+  ad74d1f0068d4144b9101b426473510a:
+    base: f4B24.txt
+    span:
+      start: 0
+      end: 8267
+  101bab81f48247c6bfb11c567e4488c5:
+    base: f55A2.txt
+    span:
+      start: 0
+      end: 3700
+  6dd36da50ab54515b27e4dfe3ad819dd:
+    base: f59BF.txt
+    span:
+      start: 0
+      end: 0
+  d19cc4b896de427aad027799778cf063:
+    base: f5ADA.txt
+    span:
+      start: 0
+      end: 0
+  63cac26246da46ecbb94722111822f03:
+    base: f6D24.txt
+    span:
+      start: 0
+      end: 0
+  4ab1ae7c148a4f54956ff00752bdde00:
+    base: f7474.txt
+    span:
+      start: 0
+      end: 3443
+  a684478084a94febaf1ccbede6506849:
+    base: f74E9.txt
+    span:
+      start: 0
+      end: 0
+  c4e339c886344d7ba56ead5f464f8813:
+    base: f8FBB.txt
+    span:
+      start: 0
+      end: 1636
+  e8e26dee7d334a3ba2a9fd48ee58583d:
+    base: f96D9.txt
+    span:
+      start: 0
+      end: 0
+  b4fbbc5614b94dd4812bc956fc009d90:
+    base: f9947.txt
+    span:
+      start: 0
+      end: 0
+  f65a17110f4e492d8192c17fe3d41525:
+    base: fA9E4.txt
+    span:
+      start: 0
+      end: 43
+  64c25e36ef9d46d5bbc05312a360590c:
+    base: fB223.txt
+    span:
+      start: 0
+      end: 0
+  19e61ce6ae08469abcc1fbf02a33f86a:
+    base: fBD89.txt
+    span:
+      start: 0
+      end: 2765
+  20a2f002aad44ade854cd4190118a8cc:
+    base: fC2B7.txt
+    span:
+      start: 0
+      end: 1408
+  2a0d97c077874586a26ecd58f5d07514:
+    base: fCF35.txt
+    span:
+      start: 0
+      end: 0
+  7fb1dbb6c96f4a85a9309cf828072938:
+    base: fDE95.txt
+    span:
+      start: 0
+      end: 26320
+  92e4995f1c004aaf8f157da03989a1ac:
+    base: fEDB5.txt
+    span:
+      start: 0
+      end: 2820
+  0550571aac5a4b1fa2e53436a4b3b69b:
+    base: fF55D.txt
+    span:
+      start: 0
+      end: 5171
+  3c9bbdb7fb954929af213d36fb9a7ad8:
+    base: fF5D3.txt
+    span:
+      start: 0
+      end: 841
